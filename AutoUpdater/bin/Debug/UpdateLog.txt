@@ -1,0 +1,57 @@
+2014/7/28 9:49:37:Update starting. There is 1 files to be updated ......
+
+2014/7/28 9:49:37:Update completed！
+
+2014/7/28 9:52:38:Update starting. There is 1 files to be updated ......
+
+2014/7/28 9:52:38:Update completed！
+
+
+2014/7/28 9:52:38 : 高 －－ 线程间操作无效: 从不是创建控件“label1”的线程访问它。 [:]    在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.Control.set_WindowText(String value)
+   在 System.Windows.Forms.Control.set_Text(String value)
+   在 System.Windows.Forms.Label.set_Text(String value)
+   在 AutoUpdater.MainForm.updater_UpdateCompleted() 位置 D:\Project\1.MyProject_Part1\OAUS\AutoUpdater\MainForm.cs:行号 54
+   在 ESBasic.CbGeneric.Invoke()
+   在 AutoUpdater.Updater.FileReceivingEvents_FileTransCompleted(TransferingProject obj) 位置 D:\Project\1.MyProject_Part1\OAUS\OAUS.Passive\Updater.cs:行号 272 。错误类型:System.InvalidOperationException。位置：AutoUpdater.Updater.UdpateThread
+
+2014/7/28 9:52:38:Update Failed！Cause：InnerError。
+
+2014/7/28 9:53:21:Update starting. There is 1 files to be updated ......
+
+2014/7/28 9:53:21:Update completed！
+
+
+2014/7/28 9:53:21 : 高 －－ 线程间操作无效: 从不是创建控件“label1”的线程访问它。 [:]    在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.Control.set_WindowText(String value)
+   在 System.Windows.Forms.Control.set_Text(String value)
+   在 System.Windows.Forms.Label.set_Text(String value)
+   在 AutoUpdater.MainForm.updater_UpdateCompleted() 位置 D:\Project\1.MyProject_Part1\OAUS\AutoUpdater\MainForm.cs:行号 54
+   在 ESBasic.CbGeneric.Invoke()
+   在 AutoUpdater.Updater.FileReceivingEvents_FileTransCompleted(TransferingProject obj) 位置 D:\Project\1.MyProject_Part1\OAUS\OAUS.Passive\Updater.cs:行号 272 。错误类型:System.InvalidOperationException。位置：AutoUpdater.Updater.UdpateThread
+
+2014/7/28 9:53:21:Update Failed！Cause：InnerError。
+
+2014/7/28 9:55:07:Update starting. There is 1 files to be updated ......
+
+2014/7/28 9:55:26:Update completed！
+
+2014/7/28 9:55:35:Update completed！
+
+2014/7/28 9:55:46:Update completed！
+
+
+2014/7/28 9:56:03 : 高 －－ 线程间操作无效: 从不是创建控件“label1”的线程访问它。 [:]    在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.Control.set_WindowText(String value)
+   在 System.Windows.Forms.Control.set_Text(String value)
+   在 System.Windows.Forms.Label.set_Text(String value)
+   在 AutoUpdater.MainForm.updater_UpdateCompleted() 位置 D:\Project\1.MyProject_Part1\OAUS\AutoUpdater\MainForm.cs:行号 54
+   在 ESBasic.CbGeneric.Invoke()
+   在 AutoUpdater.Updater.FileReceivingEvents_FileTransCompleted(TransferingProject obj) 位置 D:\Project\1.MyProject_Part1\OAUS\OAUS.Passive\Updater.cs:行号 272 。错误类型:System.InvalidOperationException。位置：AutoUpdater.Updater.UdpateThread
+
+2014/7/28 9:56:13:Update Failed！Cause：InnerError。
+
+2014/7/28 9:58:05:Update starting. There is 1 files to be updated ......
+
+2014/7/28 9:58:14:Update completed！
+
